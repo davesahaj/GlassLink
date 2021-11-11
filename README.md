@@ -7,4 +7,4 @@ This is a test commit.
 
 Sahaj Dave
 Aparna Dave
-Aparna is noob and Dave is Dumbo.
+Aparna is noob and Dave is Genius.
